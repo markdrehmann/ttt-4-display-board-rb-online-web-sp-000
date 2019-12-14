@@ -6,6 +6,8 @@ def display_board
   #{board(3)} | #{board(4)} | #{board(5)}
      -----------
      #{board(6)} | #{board(7)} | #{board(8)} "
+
+     board = [" "," "," "," "," "," "," "," "," "]
 end
 
 puts display_board
