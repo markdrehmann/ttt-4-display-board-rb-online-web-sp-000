@@ -1,4 +1,4 @@
-def display_board(board = [" "," "," "," "," "," "," "," "," "])
+def display_board(board)
   puts "Tic Tac Toe!"
 
   puts " #{board(0)} | #{board(1)} | #{board(2)}"
